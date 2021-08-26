@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "UYiU7phNQxYCj2XzsnYsZ8dDaewGHku4jyP76uHYGRBBRGyHYvORD1VkqJaFSSjFQ3FziGsI3KadLPL8h9s3Xg==",
+  "success": true,
+  "projectFilePath": "D:\\ProyectoP\\FormCMD\\FormCMD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SantiGO\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\SantiGO\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.0\\microsoft.netframework.referenceassemblies.net472.1.0.0.nupkg.sha512",
+    "C:\\Users\\SantiGO\\.nuget\\packages\\microsoft.toolkit.uwp.notifications\\7.0.2\\microsoft.toolkit.uwp.notifications.7.0.2.nupkg.sha512",
+    "C:\\Users\\SantiGO\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.19041.1\\microsoft.windows.sdk.contracts.10.0.19041.1.nupkg.sha512",
+    "C:\\Users\\SantiGO\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\SantiGO\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512",
+    "C:\\Users\\SantiGO\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
